@@ -1,2 +1,5 @@
 # For pyCharm, my preffered ide for this project
 .idea
+
+# macOS folder metadata
+.DS_Store
