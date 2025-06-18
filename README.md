@@ -40,6 +40,7 @@ Each problem includes:
 | Bit Manipulation| 0 / 5        |
 
 | **Total**       | 1 / 75       |
+|-----------------|--------------|
 
 ## 📚 References
 
