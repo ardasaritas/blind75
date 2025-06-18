@@ -20,7 +20,7 @@ Each problem includes:
 
 | Category        | Done / Total |
 |-----------------|--------------|
-| Array & Hashing | 1 / 8        |
+| Array & Hashing | 3 / 8        |
 | Two Pointers    | 0 / 3        |
 | Sliding Window  | 0 / 4        |
 | Stack           | 0 / 1        |
