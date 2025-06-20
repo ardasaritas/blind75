@@ -21,7 +21,7 @@ Each problem includes:
 | Category        | Done / Total |
 |-----------------|--------------|
 | Array & Hashing | 7 / 8        |
-| Two Pointers    | 0 / 3        |
+| Two Pointers    | 1 / 3        |
 | Sliding Window  | 0 / 4        |
 | Stack           | 0 / 1        |
 | Binary Search   | 0 / 2        |
