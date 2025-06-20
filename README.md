@@ -20,14 +20,14 @@ Each problem includes:
 
 | Category        | Done / Total |
 |-----------------|--------------|
-| Array & Hashing | 6 / 8        |
+| Array & Hashing | 7 / 8        |
 | Two Pointers    | 0 / 3        |
 | Sliding Window  | 0 / 4        |
 | Stack           | 0 / 1        |
 | Binary Search   | 0 / 2        |
 | Linked List     | 0 / 6        |
 | Trees           | 0 / 11       |
-| Heap / Priority Queue | 0 / 1  |
+| Heap / Priority Queue | 0 / 1        |
 | Backtracking    | 0 / 2        |
 | Tries           | 0 / 3        |
 | Graphs          | 0 / 6        |
