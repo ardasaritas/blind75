@@ -27,7 +27,7 @@ Each problem includes:
 | Binary Search   | 0 / 2        |
 | Linked List     | 0 / 6        |
 | Trees           | 0 / 11       |
-| Heap / Priority Queue | 0 / 1        |
+| Heap / Priority Queue | 0 / 1  |
 | Backtracking    | 0 / 2        |
 | Tries           | 0 / 3        |
 | Graphs          | 0 / 6        |
