@@ -1,19 +1,21 @@
 # 🧠 Blind 75 LeetCode Solutions
 
-This repository contains solutions I've studided (not all are particularly mine) for the [Blind 75](neetcode.io) — a curated set of coding problems considered essential for software engineering interviews.
+This repository contains mostly documented solutions I've studided (not all are particularly mine) for the [Blind 75](neetcode.io) — a curated set of coding problems considered essential for software engineering interviews.
+My current workflow is to work on the algorithm for 1-2 hours max. Then look up hints, and then solutions. 
+I also try to examine all possible solutions for most questions even if I solved it one way. 
 
 ## 🚀 Purpose
 
 I’m solving these problems to:
-- Sharpen my algorithmic thinking
-- Build a clean reference for common patterns
-- Track my growth with real code, not just theoretical studying
+- Sharpen my algorithmic thinking.
+- Build a clean reference for common patterns, and be able to recognize them at some point. 
+- Track my growth with real code, not just theoretical studying. 
 
 ## 📂 Structure
 
 Each problem includes:
 - ✅ Working solution(s) in `Python`
-- ⏱️ Time & space complexity notes
+- ⏱️ Time & space complexity notes (as much as possible)
 
 
 ## ✅ Progress Tracker
@@ -39,7 +41,7 @@ Each problem includes:
 | Math & Geometry | 0 / 3        |
 | Bit Manipulation| 0 / 5        |
 
-| **Total**       | 1 / 75       |
+| **Total**       | 8 / 75       |
 |-----------------|--------------|
 
 ## 📚 References
