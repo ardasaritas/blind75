@@ -23,7 +23,7 @@ Each problem includes:
 | Category        | Done / Total |
 |-----------------|--------------|
 | Array & Hashing | 7 / 8        |
-| Two Pointers    | 1 / 3        |
+| Two Pointers    | 2 / 3        |
 | Sliding Window  | 0 / 4        |
 | Stack           | 0 / 1        |
 | Binary Search   | 0 / 2        |
@@ -41,7 +41,7 @@ Each problem includes:
 | Math & Geometry | 0 / 3        |
 | Bit Manipulation| 0 / 5        |
 
-| **Total**       | 8 / 75       |
+| **Total**       | 9 / 75       |
 |-----------------|--------------|
 
 ## 📚 References
